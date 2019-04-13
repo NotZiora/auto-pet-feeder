@@ -2,6 +2,12 @@ MADE BY teralove
 
 updated for EU~
 
+EU Op Codes
+
+S_SPAWN_SERVANT = 37030
+
+S_CHANGE_SERVANT_ENERGY = 36807
+
 
 Info
 
