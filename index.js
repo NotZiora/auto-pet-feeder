@@ -10,13 +10,13 @@ module.exports = function AutoPetFeeder(dispatch) {
     
     let feedList = [
 		{
-			name: 'Pet Treat', // Common item. Restores 30 energy
+			name: 'Pet Treat', // Common item. Restores 30 energy (EU ID, change it to NA ID if needed)
 			id: 177131,
 			invQtd: 0,
 			dbid: 0,
 		}, 
 		{
-			name: 'Pet Food', // Uncommon item. Restores 100 energy
+			name: 'Pet Food', // idk what this is, prolly NA item (?)
 			id: 167134,
 			invQtd: 0,
 			dbid: 0,
