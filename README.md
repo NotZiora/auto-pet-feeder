@@ -5,6 +5,7 @@ updated for EU~
 Keep your pets happy.
 
 Info
+
 You must have Pet Food in your inventory.
 
 Auto-feed triggers when pet has 10 remaining energy or less.
