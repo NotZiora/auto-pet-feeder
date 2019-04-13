@@ -1,5 +1,3 @@
-# auto-pet-feeder
-auto-pet-feeder
 MADE BY teralove
 updated for EU~
 Keep your pets happy.
