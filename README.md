@@ -4,6 +4,7 @@ Updated for EU~
 
 EU OP Codes:
 S_SPAWN_SERVANT = 37030
+
 S_CHANGE_SERVANT_ENERGY = 36807
 
 
