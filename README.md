@@ -1,8 +1,8 @@
 MADE BY teralove
 
-updated for EU~
+Updated for EU~
 
-EU Op Codes
+EU OP Codes
 
 S_SPAWN_SERVANT = 37030
 
